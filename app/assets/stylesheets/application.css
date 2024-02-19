@@ -13,3 +13,30 @@
  *= require_tree .
  *= require_self
  */
+
+.ask {
+  text-align: center;
+}
+.formular{
+  width: 60%;
+  padding: 5px ;
+  margin-top: 100px;
+  transform: rotateZ(180deg);
+}
+.pres{
+  margin-top: 100px;
+}
+.title{
+  background-color: aqua;
+  padding: 2%;
+  transform: rotateZ(180deg);
+}
+.button{
+  margin-left: -5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  transform: rotateZ(90deg);
+}
